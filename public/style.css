@@ -2,9 +2,9 @@
 
 h1  {
 	text-align: center;
-	background-color:#A3C4BC;
+	background: color(srgb 195,26,90);
 	font-size: 2.5em;
-	color: white;
+	color: #012A4A;
 	font-family: Cascade Script;
 }
 
@@ -18,7 +18,7 @@ h2  {
 
 h3 {
 	font-size: 1.5em;
-	color: #4C5B5C;
+	color: #012A4A;
 }
 
 
@@ -27,7 +27,7 @@ h3 {
 p{
 	font-family: Nymphs,Calibri,Helvetica, "Comic Sans";
 	font-size: 1.8em;
-	color:#4C5B5C;
+	color:#012A4A;
 
 
 }
@@ -88,7 +88,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color:#4C5B5C;
+  background-color:#386fa4;
   font-size: 1.5em;
 }
 
@@ -105,7 +105,7 @@ li a, .dropbtn {
 }
 
 li a:hover, .dropdown:hover .dropbtn {
-  background-color: #BFD7B5;
+  background-color: #5b1d47;
 }
 
 li.dropdown {
@@ -231,13 +231,13 @@ height: "400";
 }
 
 .aside-1 {
-	background: #D2E3CB;
+	background: #a3cef1;
 	height: 550px;
 	text-align: left;
 }
 
 .aside-2{
-	background:#E0EBDB;
+	background:#cae9ff;
 	height: 550px;
 	text-align: left;
 }
