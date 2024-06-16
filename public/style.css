@@ -32,6 +32,12 @@ p{
 
 }
 
+p2{
+	font-family: Nymphs,Calibri,Helvetica, "Comic Sans";
+	font-size: 1.6em;
+	color:#012A4A;
+}
+
 
 .blackborder {
 	border-style: solid; 
